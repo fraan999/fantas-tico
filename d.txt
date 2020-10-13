@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style> body{background-color: rgb(250, 227, 187);}
+        h1{background-color: rgb(181, 47, 29);
+        color: rgb(250, 250, 250);
+		font: Italic 13px fantasy bold;
+		}
+        h2{background-color: rgb(245, 126, 110);
+        color: rgb(235, 255, 156);}
+		
+		
+         </style>
+    </head>
+    <body>
+    
+        <h1>Libro de recetas</h1>
+        
+        <h2>Índice:</h2>
+        
+        <ol>
+            <li><a href="#recipe1"><strong>Receta 1: Mac and cheese</strong></a></li> <br>
+            <li> <a href="#recipe2"><strong> Receta 2: Tortitas</strong></a></li><br> <li>  <a href="#recipe3"> <strong>Receta 3: Fabada</strong></a></li>
+        </ol>
+        <br> 
+        <h2>  <a id="recipe1">Receta 1 </a></h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Original_Mac_n_Cheese_.jpg"width="100" tall="100">
+        <ul>
+            <li>Tiempo: 20</li>
+            <li>Raciones: 4</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredientes</th>
+                    <th>Cantidad</th>
+                </tr>
+            </thead>
+            <tbody> <tr>
+                    <td> pasta</td>
+                    <td>1/2 kg</td>
+                </tr><tr>
+                    <td> leche</td>
+                    <td>250 ml</td>
+                </tr><tr>
+                    <td>  mantequilla</td>
+                    <td>150 g</td>
+                </tr><tr>
+                    <td> harina de trigo</td>
+                    <td>125 ml </td>
+                </tr><tr>
+                    <td> queso Cheddar rallado</td>
+                    <td> 250 g</td>
+                </tr><tr>
+                    <td>  queso gruyere rallado</td>
+                    <td>250 g</td>
+                </tr><tr>
+                    <td> Pimienta negra molida
+</td>
+                    <td></td>
+                </tr><tr>
+                    <td> Nuez moscada rallada</td>
+                    <td></td>
+                </tr><tr>
+                    <td> Sal</td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Paso 1:</strong>Se cuece la pasta en agua con un poco de sal.
+</p>
+<p><strong>Paso 2:</strong>Mientras se cuece la pasta preparamos la salsa de queso. En una cazuela pequeña a fuego medio se derrite la mantequilla y se añade la harina. La tostamos muy ligeramente removiendo y añadimos la leche sin dejar de remover para que no se hagan grumos.
+</p>
+<p><strong>Paso 3:</strong>Dejamos que hierva dos minutos y vamos añadiendo poco a poco los quesos, siempre removiendo para que poco a poco se vayan fundiendo y convirtiendo en un líquido espeso. Añadimos unos golpes de pimienta y de nuez moscada, mezclamos una última vez y mantenemos caliente.
+</p>
+<p><strong>Paso 4:</strong>Cuando la pasta esté en su punto, la escurrimos y la devolvemos a la cazuela. Vertemos la salsa por encima y mezclamos bien el conjunto. Y listo para servir.
+
+
+</p>
+               
+    
+        
+        <h2>  <a id="recipe2">Receta 2  </a></h2>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/PancakesWithSyrup.jpg/1200px-PancakesWithSyrup.jpg"width="100" tall="100">
+        <ul>
+            <li>Tiempo: 20</li>
+            <li>Raciones: 4</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredientes</th>
+                    <th>Cantidad</th>
+                </tr>
+            </thead>
+            <tbody> <tr>
+                    <td>  huevos</td>
+                    <td>1</td>
+                </tr><tr>
+                    <td> leche</td>
+                    <td>200 ml</td>
+                </tr><tr>
+                    <td>   de aceite de girasol
+</td>
+                    <td>30 ml</td>
+                </tr><tr>
+                    <td> harina de trigo</td>
+                    <td>120 ml </td>
+                </tr><tr>
+                    <td>  azúcar blanco</td>
+                    <td> 20 g</td>
+                </tr><tr>
+                    <td> levadura o polvo de hornear
+</td>
+                    <td>1 sobre</td>
+                </tr><tr>
+                    <td> mantequilla para la sartén
+</td>
+                    <td></td>
+                </tr><tr>
+                    <td> canela</td>
+                    <td></td>
+                </tr><tr>
+                    <td> Sal</td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Paso 1:</strong> Lo primero que haremos será mezclar los ingredientes líquidos. El huevo, el aceite, la leche y batimos. Siempre con la ayuda de unas varillas.
+
+
+</p>
+<p><strong>Paso 2:</strong> Por otra parte los ingredientes secos. El azúcar, la harina tamizada, el sobre de polvo de hornear y una pizca de sal. La pizca de sal siempre ayuda a integrar todos los ingredientes.
+</p>
+<p><strong>Paso 3:</strong>Damos bien una vuelta con una espátula y repetimos la operación hasta que quede todo integrado homogéneamente. Siempre sin pasarnos.
+</p>
+<p><strong>Paso 4:</strong>Untamos la sartén con mantequilla y echamos con un cazo en la sartén. Una vez que veamos que salen burbujas a la masa le damos la vuelta y la doramos por el otro lado. Un desayuno o merienda perfecto.
+
+
+</p>
+    <p><em>Fuente: <a href="https://recetasdecocina.elmundo.es/2020/01/tortitas-pancakes-receta-facil.html">Recetas del mundo</a></em></p>
+    
+       <h2>  <a id="recipe3">Receta 3 </a></h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Fabada_en_cazuela_de_barro.jpg"width="100" tall="100">
+        <ul>
+            <li>Tiempo: 7h</li>
+            <li>Raciones: 2</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredientes</th>
+                    <th>Cantidad</th>
+                </tr>
+            </thead>
+            <tbody> <tr>
+                    <td>fabes</td>
+                    <td>450 g </td>
+                </tr><tr>
+                    <td> aceite de oliva virgen extra</td>
+                    <td>1 cucharada</td>
+                </tr><tr>
+                    <td>    compango asturiano(chorizo, morcilla y tocino)</td>
+                    <td>1 paquete</td>
+                </tr><tr>
+                    <td>laurel</td>
+                    <td>1 hoja </td>
+                </tr><tr>
+                   
+                    <td> azafrán
+</td>
+                    <td></td>
+                </tr><tr>
+                    <td> agua </td>
+                    <td></td>
+                </tr><tr>
+                    <td> Sal</td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Paso 1:</strong> Poner en remojo las legumbres un mínimo de ocho horas.
+</p>
+<p><strong>Paso 2:</strong> Escurrir e introducir las fabes hidratadas en la olla, junto al compango. 
+</p>
+<p><strong>Paso 3:</strong> Añadir el aceite, la hoja de laurel y unas hebras de azafrán (cualquiera de estos dos ingredientes son, en cualquier caso, prescindibles) y cubrir con agua, un dedo por encima de las legumbres.
+</p>
+<p><strong>Paso 4:</strong>Tapar la olla y programar siete horas en temperatura baja.</p>
+
+<p><strong>Paso 5:</strong>Probar y sazonar si fuera necesario antes de servir.
+    <p><em>Fuente: <a href="https://www.directoalpaladar.com/recetario/30-recetas-faciles-pocos-ingredientes-para-que-se-ven-obligados-a-hacer-comida-tener-idea">directoalpaladar</a></em></p>
+
+
+</p>
+               
+    </body>
+</html>

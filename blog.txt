@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+    <html>
+        <head> <style>
+           body{ background-color:rgb(207, 255, 218);}
+           
+            h1{ font-family:fantasy;
+                font-size: 60px;
+                color:rgb(48, 130, 90);
+                text-align: center;
+                line-height:1,51em ;
+            }
+            .title{ color: rgb(40, 153, 85);
+                font-size:25px;
+                font-family:"Helvetica",sans-serif ;
+                text-decoration: underline;
+                 text-align: center;
+            }
+           
+           
+            .contents{color: rgb(12, 59, 30);
+                        font-family:"Helvetica",sans-serif ;
+                font-size:16px;
+    
+                
+            }
+            h6{ font-size: 12px;
+                 text-align:center;
+                 color:rgb(136, 158, 136);
+            }        
+            
+        </style>
+            <meta charset="utf-8">
+            <title>Project: Blog</title>
+        </head>
+        <body>
+            
+            <h1>Fran's blog</h1>
+    
+            <h3 class="title">Contents</h3>
+            <ol class="contents">
+                <li><a href="#1ra entrada">¡The adventure starts!</a></li><br>
+                <li><a href="#1ra entrada"> Improving everyday</a></li><br>
+                <li> Making big things</li>
+            </ol> <br>
+            
+            <h2 class="title" id="1ra entrada">¡The adventure starts!
+            </h2>
+            <h6>Posted on 2nd of June of the terrific 2020</h6>
+            
+            <p class="contents" >Something excited happened. Last week on Monday during the morning, I had one of the greatest ideas of my life... START A CODING COURSE!!  <br>I started a research looking for the best ones until I discovered Khan Academy, and this courses and I literally fell in love with it. This site has everything I need, I thought, so I started to create... And here are my advances during last week:   <ul class="contents">
+                <li> I made<em> my first</em><strong> recipe web</strong> mixing CSS and HTML languages</li><br>
+                        <li> I created <em>my own <strong>creature</strong></em> with javascript language</li><br><li> I designed a <strong>travel blog </strong>inspired in<em> Bahamas</em> with HTML language</li>
+    </ul> <br><p class="contents"> Look at this images of my progress <br> <img src="" ></p>
+            <br><br><br>
+             <h2 class="title">Improving everyday
+            </h2>
+            <h6>Posted on 3rd of June of the terrific 2020</h6>
+            
+            <p class="contents" id="2da entrada">Something excited happened.</p>
+        </body>
+    </html>
